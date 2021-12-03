@@ -1,5 +1,4 @@
-<code> <h1><strong> Skills </strong></h1> 
-
+<code> <h1>Skills</h1> 
 <table>
   <tr>
     <td>
