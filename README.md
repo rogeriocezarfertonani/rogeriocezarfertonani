@@ -1,4 +1,4 @@
-<code> <h1><strong> Rogerio Cezar Fertonani </strong></h1> 
+<code> <h1><strong> Skills </strong></h1> 
 
 <table>
   <tr>
