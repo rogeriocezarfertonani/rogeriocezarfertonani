@@ -57,5 +57,5 @@
   </tr>
 </table>
 </code>
-
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rogeriocezarfertonani&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
