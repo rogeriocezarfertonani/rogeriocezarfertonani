@@ -1,9 +1,9 @@
-<h1><strong> Rogerio Cezar Fertonani </strong></h1> 
+<code> <h1><strong> Rogerio Cezar Fertonani </strong></h1> 
 
 <table>
   <tr>
     <td>
-    <h2>Linguagens</h2>
+    <h2>Language</h2>
 <p>
 <image src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <image src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -40,15 +40,23 @@
   </tr>
   <tr>
     <td>
-      <h1>Sistema Operacional</h1>
+      <h1>OS</h1>
           <image src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
             <image src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>  
               <image src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
-                 <image src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  
-                     <image src=""/>    
+                 <image src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>    
     </td>
-  
+    <td>
+      <h1>More..</h1>
+      <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
+      <image src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
+      <image src="	https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>  
+      <image src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>  
+       <image src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>  
+       <image src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>  
+    </td>  
   </tr>
-
 </table>
+</code>
+
 
